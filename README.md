@@ -24,4 +24,4 @@ D. Program Description
 2. ecommerce.ipynb : file python Jupiter notebook yang berisi langkah-langkah untuk melakukan analisa
 
 E. Analysis Step by Step
-https://medium.com/@fredy.krist
+https://medium.com/@fredy.krist/python-project-pacmann-ecommerce-data-analysis-e32761925a7a
